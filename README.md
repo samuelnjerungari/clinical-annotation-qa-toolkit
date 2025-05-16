@@ -82,7 +82,7 @@ See `requirements.txt` for full list. Key libraries include:
 
 ## 👤 Author
 
-**Samuel Njerungari**  
+**Samuel Njeru Ngari**  
 
-- [🔗 LinkedIn Profile](https://www.linkedin.com/in/samuelnjerungari)  
+- [🔗 LinkedIn Profile](https://www.linkedin.com/in/samuel-n-ngari)  
 - [💻 GitHub Profile](https://github.com/samuelnjerungari)
