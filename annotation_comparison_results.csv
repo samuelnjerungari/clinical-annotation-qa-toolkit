@@ -1,0 +1,6 @@
+Text,Entity_Human,Label_Human,Start,End,Entity_Machine,Label_Machine,_merge,Match_Type
+He was prescribed ibuprofen.,ibuprofen,MED,23,32,ibuprofen,MED,both,✅ Exact Match
+Patient denies chest pain.,,,15,20,chest,SYMPTOM,right_only,❌ Human Missing
+Patient denies chest pain.,chest pain,SYMPTOM,15,26,,,left_only,❌ Machine Missing
+She takes metformin daily.,metformin,MED,10,19,metformin,MEDICATION,both,❌ Label Mismatch
+The patient has diabetes.,diabetes,CONDITION,18,26,diabetes,DISEASE,both,❌ Label Mismatch
